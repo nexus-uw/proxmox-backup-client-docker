@@ -1,3 +1,8 @@
+fork changes
+- dropped arm support
+- bumped to trixie (debian 13, latest as of june 2026)
+
+
 # Dockerized Proxmox Backup Client
 
 ## Benefits
